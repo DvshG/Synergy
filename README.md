@@ -1,6 +1,7 @@
 # Synergy - Educational Infrastructure Management Platform
 
-![Synergy Logo](/api/placeholder/800/400)
+![Synergy Logo](https://github.com/user-attachments/assets/fa28b03a-90d9-41a0-adde-92d2f7a63274)
+
 
 Synergy is a comprehensive web platform designed to help educational institutions, administrators, and policymakers manage and standardize school infrastructure across India. The platform features automated data collection through UDISE integration, providing seamless analysis and resource management capabilities.
 
